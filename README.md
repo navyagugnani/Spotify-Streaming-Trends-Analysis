@@ -24,6 +24,15 @@ The dataset includes the following key features:
 - Exploratory Data Analysis (EDA) – Identified trends in song popularity, artist impact, and platform performance.
 - Cross-Platform Comparison – Analyzed song performance across different music streaming services.
 
+
+![image](https://github.com/user-attachments/assets/16932e89-e48e-44e1-8cba-894687f34a9f)
+![image](https://github.com/user-attachments/assets/f9e2c924-b862-461e-a75b-252965a6e894)
+![image](https://github.com/user-attachments/assets/ed04cadf-eda3-404c-81d0-4110047d345c)
+
+
+
 CONCLUSION
 
 The Spotify Analysis Dashboard makes it easy to explore music trends by visualizing the most streamed tracks, artists, and albums. With interactive features and clear insights, it helps users understand what’s popular and how different songs perform across platforms. By using Power BI, DAX functions, and data analysis techniques, this project highlights the power of data-driven storytelling in the music industry, making it easier to track patterns and listener preferences over time.
+
+
