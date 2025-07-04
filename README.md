@@ -1,3 +1,4 @@
+# Spotify-Streaming-Trend-Analysis | Power BI
 This project involves analyzing the top-streamed tracks, artists, and albums using Power BI. The dataset contains a detailed list of popular songs, including features like track names, artist details, streaming metrics, and availability across various music platforms.
 
 📅Dataset Details
